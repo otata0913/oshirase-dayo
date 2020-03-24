@@ -42,10 +42,10 @@ body {
   .header-list li {
     float : left;
     padding: 20px
-    color: white;
   }
   .header-list a {
      transition: color 0.3s;
+      color: white;
   }
   .header-list a:hover {
     color: #5295b3;
