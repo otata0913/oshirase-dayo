@@ -45,6 +45,7 @@ body {
   }
   .header-list a {
      transition: color 0.3s;
+     color: white;
   }
   .header-list a:hover {
     color: #5295b3;
