@@ -42,6 +42,7 @@ body {
   .header-list li {
     float : left;
     padding: 20px
+    color: white;
   }
   .header-list a {
      transition: color 0.3s;
